@@ -13,8 +13,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: AKASHINI V
-RegisterNumber: 212225230009
+Developed by: Vaishnavi T
+RegisterNumber: 212225100057
 */
 ```
 ```
